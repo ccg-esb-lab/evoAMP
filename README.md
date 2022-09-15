@@ -12,11 +12,11 @@ Jupyter Notebooks used to generate the following figures can be found in [evoAMP
 **Figue 2:** Evaluating the stability of resistance of populations evolved under different selection regimes<br>
 **Figue 4:** Rate of adaptation when antibiotics are reintroduced into the environment depends on previous drug exposures<br>
 
-## Authors
+## Mathematical model
 
-Matlab scripts used to generate the following figures can be found in [evoAMP/code/m-files/](evoAMP/code/m-files/)
+Matlab scripts used to generate the modelling figures can be found in [evoAMP/code/m-files/](evoAMP/code/m-files/)
 
-**Figue 5:** Numerical simulations of the population dynamics model<br>
+**Figure 5:** Numerical simulations of the population dynamics model<br>
 
 <br>
 
