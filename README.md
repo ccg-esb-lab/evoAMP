@@ -14,7 +14,7 @@ Jupyter Notebooks used to generate the following figures can be found in [code/p
 **Figue 1A:** Resistance as a function of time in adaptive ramps with different strengths of selection<br>
 **Figue 1C:** Rate of adaptation estimated for each replicate<br>
 **Figue 2C & 2C:** Reduction in resistance measured daily during counter-selection<br>
-**Figue 4A:** Rate of adaptation when antibiotics are reintroduced into the environment depends on previous drug exposures<br>
+**Figue 4A:** Rate of adaptation depends on previous drug exposures<br>
 **Figue S1:** Normalized resistance during all phases of the evolutionary experiment<br>
 **Figue S3:** Maximum growth rate estimated for sequenced clones from growth kinetic curves<br>
 **Figue S4:** Relative fitness of populations sampled at the end of PHASE 1 compared to a susceptible strain<br>
