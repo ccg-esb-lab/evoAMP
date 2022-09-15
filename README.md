@@ -9,7 +9,7 @@ Molecular Biology and Evolution (2022).<br>
 
 ## Data analysis
 
-Jupyter Notebooks used to generate the following figures can be found in [code/py-files/runEvoAMP.ipynb](code/py-files/runEvoAMP.ipynb)
+Jupyter Notebooks used to generate the following figures can be found in [code/py-files/](code/py-files/runEvoAMP.ipynb)
 
 **Figue 1A:** Resistance as a function of time in adaptive ramps with different strengths of selection<br>
 **Figue 1C:** Rate of adaptation estimated for each replicate<br>
