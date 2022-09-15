@@ -18,7 +18,7 @@ Jupyter Notebooks used to generate the following figures can be found in [evoAMP
 **Figue S1:** Normalized resistance during all phases of the evolutionary experiment<br>
 **Figue S3:** Maximum growth rate estimated for sequenced clones from growth kinetic curves<br>
 **Figue S4:** Relative fitness of populations sampled at the end of PHASE 1 compared to a susceptible strain<br>
-**Figue S5:** MIC estimated for each evolved population at the end of each phasen<br>
+**Figue S5:** MIC estimated for each evolved population at the end of each phase<br>
 **Figue S7:** Frequency of IS-mediated mutations during the evolutionary experiment<br>
 
 ## Mathematical model
