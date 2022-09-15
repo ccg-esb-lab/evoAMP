@@ -7,6 +7,8 @@ S Cisneros-Mayoral, L Graña-Miraglia, D Pérez-Morales, R Peña-Miller, A Fuent
 Molecular Biology and Evolution (2022).<br>
 [https://doi.org/10.1093/molbev/msac185](https://doi.org/10.1093/molbev/msac185)
 
+[![DOI](https://zenodo.org/badge/533570822.svg)](https://zenodo.org/badge/latestdoi/533570822)
+
 ## Data analysis
 
 Jupyter Notebooks used to generate the following figures can be found in [code/py-files/runEvoAmp.ipynb](https://github.com/ccg-esb-lab/evoAMP/blob/main/code/py-files/runEvoAmp.ipynb)
