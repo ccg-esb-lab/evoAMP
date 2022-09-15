@@ -3,13 +3,13 @@
 Repository for:
 
 __Evolutionary history and strength of selection determine the rate of antibiotic resistance adaptation__<br>
-S Cisneros-Mayoral, L Graña-Miraglia, D Pérez-Morales, R Peña-Miller, A Fuentes-Hernáandez<br>
+S Cisneros-Mayoral, L Graña-Miraglia, D Pérez-Morales, R Peña-Miller, A Fuentes-Hernández<br>
 Molecular Biology and Evolution (2022).<br>
 [https://doi.org/10.1093/molbev/msac185](https://doi.org/10.1093/molbev/msac185)
 
 ## Data analysis
 
-Jupyter Notebooks used to generate the following figures can be found in [evoAMP/code/py-files/runEvoAMP.ipynb](code/py-files/runEvoAMP.ipynb)
+Jupyter Notebooks used to generate the following figures can be found in [code/py-files/runEvoAMP.ipynb](code/py-files/runEvoAMP.ipynb)
 
 **Figue 1A:** Resistance as a function of time in adaptive ramps with different strengths of selection<br>
 **Figue 1C:** Rate of adaptation estimated for each replicate<br>
