@@ -388,11 +388,6 @@ def loadDataN(params, dilution):
 
     
     fileDataNames=params['fileDataNames']
-    #OD=importData(fileDataNames, params)
-    #if params['verbose']:
-    #    print('\n\n**** OD600:\n')
-    #    show(OD)
-        
         
     DATA=[]
     prevDATA=[]
