@@ -399,7 +399,7 @@ def loadDataN(params, dilution):
     this_day=1
     
     for n, fileDataNames in enumerate(params['fileDataNames']):
-        print(fileDataNames)
+        #print(fileDataNames)
         OD=importData([fileDataNames], params)
 
         ignore_wells=params['ignoreWells'][n].split(',')
@@ -435,9 +435,8 @@ def loadDataN(params, dilution):
                                 this_gen=0
                                 
                             this_bottleneck=this_pCells*dilution
-                            #print(this_bottleneck)
 
-                            print(this_day,'--> ',tDATA['KEY'],'(rep ',irep,')\t log2(',this_tCells,' / ',this_pCells*dilution,') = ',this_gen, ' ',this_bottleneck)
+                            #print(this_day,'--> ',tDATA['KEY'],'(rep ',irep,')\t log2(',this_tCells,' / ',this_pCells*dilution,') = ',this_gen, ' ',this_bottleneck)
                             gens.append(this_gen)
                             bottlenecks.append(this_bottleneck)
                 
@@ -456,7 +455,6 @@ def loadDataN(params, dilution):
 
                     this_gen=getGenerations(this_pCells*dilution, this_tCells)
                     
-
                     #print(this_day,'--> ',tDATA['KEY'],'(rep ',irep,')\t log2(',this_tCells,' / ',this_pCells*dilution,') = ',this_gen)
                     this_bottleneck=this_pCells*dilution    
                     
@@ -467,8 +465,6 @@ def loadDataN(params, dilution):
                 thisDATA[iDATA]['bottlenecks']=bottlenecks
                 
             
-            #print(thisDATA)
-            #print("***********")
         
         
         if params['verbose']:
