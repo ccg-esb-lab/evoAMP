@@ -1,6 +1,9 @@
-# evoAMP
-Public repository of "Evolutionary history and strength of selection determine the rate of antibiotic resistance adaptation""
-S Cisneros-Mayoral, L Graña-Miraglia, D Pérez-Morales, R Peña-Miller, A Fuentes-Hernáandez
+# EvoAMP
+
+Repository for:
+
+__Evolutionary history and strength of selection determine the rate of antibiotic resistance adaptation__<br>
+S Cisneros-Mayoral, L Graña-Miraglia, D Pérez-Morales, R Peña-Miller, A Fuentes-Hernáandez<br>
 Molecular Biology and Evolution (2022).
 [https://doi.org/10.1093/molbev/msac185](https://doi.org/10.1093/molbev/msac185)
 
@@ -8,15 +11,25 @@ Molecular Biology and Evolution (2022).
 
 Jupyter Notebooks used to generate the following figures can be found in [evoAMP/code/py-files/runEvoAMP.ipynb](evoAMP/code/py-files/runEvoAMP.ipynb)
 
-**Figue 1:** Adaptive ramp with different strengths of selection<br>
-**Figue 2:** Evaluating the stability of resistance of populations evolved under different selection regimes<br>
-**Figue 4:** Rate of adaptation when antibiotics are reintroduced into the environment depends on previous drug exposures<br>
+**Figue 1C:** Rate of adaptation estimated for each replicate exposed to adaptive ramps with different strengths of selection<br>
+**Figue 2C & 2C:** Reduction in resistance measured daily during counter-selection<br>
+**Figue 4A:** Rate of adaptation when antibiotics are reintroduced into the environment depends on previous drug exposures<br>
+**Figue S1:** Normalized resistance during all phases of the evolutionary experiment<br>
+**Figue S3:** Maximum growth rate estimated for sequenced clones from growth kinetic curves<br>
+**Figue S4:** Relative fitness of populations sampled at the end of PHASE 1 compared to a susceptible strain<br>
+**Figue S5:** MIC estimated for each evolved population at the end of each phasen<br>
+**Figue S7:** Frequency of IS-mediated mutations during the evolutionary experiment<br>
+
+<br>
 
 ## Mathematical model
 
-Matlab scripts used to generate the modelling figures can be found in [evoAMP/code/m-files/](evoAMP/code/m-files/)
+Numerical simulations of the population dynamics model were performed in Matlab, with scripts that can be found in [evoAMP/code/m-files/](evoAMP/code/m-files/)
 
-**Figure 5:** Numerical simulations of the population dynamics model<br>
+**Figue 2A:** Reduction in resistance after counter-selection<br>
+**Figue 5:** Numerical simulations of the population dynamics model<br>
+**Figue S9:** Stability of resistance is associated with the level of resistance<br>
+**Figue S10:** Interaction between strength of selection and rate of adaptation under different bottleneck scenarios<br>
 
 <br>
 
