@@ -21,8 +21,6 @@ Jupyter Notebooks used to generate the following figures can be found in [evoAMP
 **Figue S5:** MIC estimated for each evolved population at the end of each phasen<br>
 **Figue S7:** Frequency of IS-mediated mutations during the evolutionary experiment<br>
 
-<br>
-
 ## Mathematical model
 
 Numerical simulations of the population dynamics model were performed in Matlab, with scripts that can be found in [evoAMP/code/m-files/](evoAMP/code/m-files/)
@@ -31,8 +29,6 @@ Numerical simulations of the population dynamics model were performed in Matlab,
 **Figue 5:** Numerical simulations of the population dynamics model<br>
 **Figue S9:** Stability of resistance is associated with the level of resistance<br>
 **Figue S10:** Interaction between strength of selection and rate of adaptation under different bottleneck scenarios<br>
-
-<br>
 
 ## Authors
 
