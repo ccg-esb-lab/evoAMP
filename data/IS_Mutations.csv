@@ -1,0 +1,11 @@
+Selection,MutType,Mutation,Gene,Phase1,Phase2,Phase3,Rep
+MS,IS-mediated,IS186 (+) +6 bp :: Δ1 bp,clpX → / → lon,65.3,0,0,R1
+MS,IS-mediated,IS2 (+) +5 bp,mgrB ← / → yobH,91.1,0,0,R1
+MS,IS-mediated,IS5 (+) +4 bp,mgrB ← / → yobH,71.9,100,100,R1
+MS,IS-mediated,"Δ35,590 bp",yoeA–insH7,100,0,0,R2
+MS,IS-mediated,IS4 (–) +12 bp,greA ←,0,0,28.5,R4
+SS,IS-mediated,IS186 (+) +6 bp :: Δ1 bp,clpX → / → lon,100,65.2,100,R2
+SS,IS-mediated,IS1 (–) +9 bp,acrR →,100,59.3,100,R2
+SS,IS-mediated,Δ1 bp :: IS186 (–) +6 bp :: Δ1 bp,crr →,0,0,77.5,R2
+SS,IS-mediated,"Δ17,996 bp",gpt–[ykfC],0,0,100,R3
+SS,IS-mediated,IS2 (–) +5 bp,ldtC ←,0,0,42.2,R4

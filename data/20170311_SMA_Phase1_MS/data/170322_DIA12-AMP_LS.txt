@@ -1,0 +1,44 @@
+
+
+Software Version	3.00.19
+
+
+
+Experiment File Path:	C:\Users\hp\Documents\SANDRA\Sandra_1lectura.xpt
+Protocol File Path:	
+
+
+
+Plate Number	Plate 14
+Date	22/03/2017
+Time	01:01:27 p. m.
+Reader Type:	ELx808
+Reader Serial Number:	Unknown
+Reading Type	Reader
+
+Procedure Details
+
+Plate Type	96 WELL PLATE
+Set Temperature	Setpoint 30°C
+	Preheat before moving to next step
+Shake	Medium, 0:20 (MM:SS)
+Read	Absorbance Endpoint
+	Full Plate
+	Wavelengths:  630
+	Read Speed: Normal
+
+
+
+Actual Temperature:	29.9
+
+Results
+	1	2	3	4	5	6	7	8	9	10	11	12
+A	0.512	0.075	0.303	0.318	0.366	0.215	0.196	0.169	0.179	0.467	0.080	0.078	630
+B	0.080	0.079	0.078	0.079	0.079	0.079	0.079	0.079	0.080	0.080	0.079	0.078	630
+C	0.415	0.076	0.366	0.386	0.389	0.251	0.184	0.148	0.116	0.171	0.188	0.081	630
+D	0.079	0.080	0.079	0.078	0.078	0.078	0.078	0.078	0.079	0.078	0.079	0.078	630
+E	0.414	0.077	0.399	0.396	0.344	0.345	0.116	0.108	0.121	0.103	0.088	0.082	630
+F	0.083	0.082	0.080	0.079	0.078	0.077	0.078	0.079	0.078	0.078	0.078	0.082	630
+G	0.436	0.078	0.376	0.395	0.387	0.325	0.231	0.196	0.175	0.215	0.147	0.147	630
+H	0.084	0.083	0.080	0.086	0.081	0.117	0.079	0.080	0.080	0.080	0.080	0.080	630
+

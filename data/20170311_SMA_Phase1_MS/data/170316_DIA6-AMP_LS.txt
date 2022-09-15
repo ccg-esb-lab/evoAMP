@@ -1,0 +1,44 @@
+
+
+Software Version	2.05.5
+
+
+
+Experiment File Path:	
+Protocol File Path:	
+
+
+
+Plate Number	Plate 3
+Date	16/03/2017
+Time	12:54:03
+Reader Type:	ELx808
+Reader Serial Number:	Unknown
+Reading Type	Reader
+
+Procedure Details
+
+Plate Type	96 WELL PLATE
+Set Temperature	Setpoint 30°C
+	Preheat before moving to next step
+Shake	Medium, 0:20 (MM:SS)
+Read	Absorbance Endpoint
+	Full Plate
+	Wavelengths:  630
+	Read Speed: Normal
+
+
+
+Actual Temperature:	29,7
+
+Results
+	1	2	3	4	5	6	7	8	9	10	11	12
+A	0.354	0.076	0.413	0.354	0.376	0.281	0.111	0.081	0.081	0.079	0.083	0.080	630
+B	0.077	0.076	0.075	0.076	0.078	0.077	0.077	0.076	0.077	0.076	0.076	0.075	630
+C	0.399	0.076	0.336	0.359	0.342	0.312	0.330	0.081	0.079	0.080	0.079	0.078	630
+D	0.089	0.091	0.076	0.076	0.075	0.075	0.077	0.075	0.076	0.075	0.077	0.077	630
+E	0.381	0.078	0.388	0.395	0.352	0.119	0.081	0.081	0.081	0.082	0.081	0.081	630
+F	0.078	0.076	0.078	0.081	0.076	0.076	0.077	0.076	0.077	0.079	0.077	0.078	630
+G	0.430	0.076	0.460	0.422	0.366	0.310	0.201	0.080	0.083	0.080	0.081	0.080	630
+H	0.083	0.078	0.076	0.077	0.094	0.075	0.076	0.076	0.076	0.078	0.075	0.076	630
+

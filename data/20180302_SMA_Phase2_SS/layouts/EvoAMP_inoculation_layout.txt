@@ -1,0 +1,8 @@
+P	0	B	B	B	B	B	B	B	B	B	B
+B	B	B	B	B	B	B	B	B	B	B	B
+P	0	B	B	B	B	B	B	B	B	B	B
+B	B	B	B	B	B	B	B	B	B	B	B
+P	0	B	B	B	B	B	B	B	B	B	B
+B	B	B	B	B	B	B	B	B	B	B	B
+P	0	B	B	B	B	B	B	B	B	B	B
+B	B	B	B	B	B	B	B	B	B	B	B

@@ -1,0 +1,9 @@
+	1	2	3	4	5	6	7	8	9	10	11	12
+A	MS_R1_A17+M1 … M7											
+B												
+C	MS_R2_A14+M1 … M7											
+D												
+E	MS_R3_A24+M1 … M7											
+F												
+G	MS_R4_A12+M1 … M7											
+H												
