@@ -23,6 +23,10 @@ Jupyter Notebooks used to generate the following figures can be found in [code/p
 **Figue S5:** MIC estimated for each evolved population at the end of each phase<br>
 **Figue S7:** Frequency of IS-mediated mutations during the evolutionary experiment<br>
 
+Jupyter Notebooks used to plot results from genomic analysis can be found in in [code/r-files/Figure3_AB.ipynb.ipynb](https://github.com/ccg-esb-lab/evoAMP/blob/main/code/py-files/Figure3_AB.ipynb.ipynb) and [code/r-files/Figure3_CDE.ipynb.ipynb](https://github.com/ccg-esb-lab/evoAMP/blob/main/code/py-files/Figure3_CDE.ipynb.ipynb)
+
+**Figue 3:** Genomic analysis of evolutionary experiment<br>
+
 ## Mathematical model
 
 Numerical simulations of the population dynamics model were performed in Matlab, with scripts that can be found in [evoAMP/code/m-files/](evoAMP/code/m-files/)
