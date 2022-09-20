@@ -1,0 +1,34 @@
+,position,mutation,CG,CO,CV,Phase1,Phase2,Phase3,annotation,MutType,gene,description,Replic
+1,231794,T→G,0,0,0,0,10.4,0,F225V (TTT→GTT) ,Nsyn,yafD →,endonuclease/exonuclease/phosphatase domain‑containing protein YafD,R2
+2,458790,IS186 (+) +6 bp :: Δ1 bp,0,0,0,100,65.2,100,intergenic (+90/‑93),IS-mediated,clpX → / → lon,ATP‑dependent Clp protease ATP‑binding subunit ClpX/Lon protease,R2
+3,486025,IS1 (–) +9 bp,0,0,0,100,59.3,100,coding (265‑273/648 nt),IS-mediated,acrR →,DNA‑binding transcriptional repressor AcrR,R2
+4,2536312,Δ1 bp :: IS186 (–) +6 bp :: Δ1 bp,0,0,0,0,0,77.5,coding (479‑484/510 nt),IS-mediated,crr →,Enzyme IIA(Glc),R2
+5,3205983,T→G,0,0,0,0,17.6,0,T92P (ACG→CCG) ,Nsyn,ttdR ←,DNA‑binding transcriptional activator Dan,R2
+6,255959,"Δ17,996 bp",0,0,0,0,0,100,IS5‑mediated,IS-mediated,gpt–[ykfC],26 genes ,R3
+7,422429,T→G,0,0,0,0,13.9,8.4,intergenic (+70/‑89),Intergenic,proY → / → malZ,putative transporter ProY/maltodextrin glucosidase,R3
+8,3334709,Δ1 bp,0,0,0,0,0,100,intergenic (+28/‑200),Indel,ispB → / → sfsB,all‑trans‑octaprenyl‑diphosphate synthase/putative transcriptional regulator SfsB,R3
+9,298557,A→C,0,0,0,8.6,8.9,10.3,L57R (CTC→CGC) ,Nsyn,paoD ←,molybdenum cofactor insertion chaperone PaoD,R4
+10,610878,T→G,0,0,0,0,10,0,K539N (AAA→AAC) ,Nsyn,fepA ←,ferric enterobactin outer membrane transporter,R4
+11,729383,T→G,0,0,0,0,10.3,0,intergenic (+43/‑200),Intergenic,ybfA → / → rhsC,DUF2517 domain‑containing protein YbfA/rhs element protein RhsC,R4
+12,1040970,A→C,0,0,0,9.6,16.9,0,T118T (ACA→ACC) ,Syn,appA →,periplasmic phosphoanhydride phosphatase/multiple inositol‑polyphosphate phosphatase,R4
+13,1080910,A→C,0,0,0,0,17.4,0,intergenic (+97/‑1333),Intergenic,putP → / → efeO,proline:Na(+) symporter/ferrous iron transport system protein EfeO,R4
+14,1169574,IS2 (–) +5 bp,0,0,0,0,0,42.2,coding (797‑801/963 nt),IS-mediated,ldtC ←,"L,D‑transpeptidase LdtC",R4
+15,1708814,A→T,0,0,0,0,10.4,0,A632A (GCA→GCT) ,Syn,rsxC →,SoxR [2Fe‑2S] reducing system protein RsxC,R4
+16,1708901,A→C,0,0,0,0,14.2,9.3,R661R (CGA→CGC) ,Syn,rsxC →,SoxR [2Fe‑2S] reducing system protein RsxC,R4
+17,1708916,A→T,0,0,0,0,14.6,0,K666N (AAA→AAT) ,Nsyn,rsxC →,SoxR [2Fe‑2S] reducing system protein RsxC,R4
+18,2115775,T→G,0,0,0,0,11,0,N41T (AAC→ACC) ,Nsyn,wcaM ←,putative colanic acid biosynthesis protein WcaM,R4
+19,2177234,C→A,0,0,0,0,0,13.6,intergenic (‑30/+278),Intergenic,gatY ← / ← fbaB,"tagatose‑1,6‑bisphosphate aldolase 2 subunit GatY/fructose‑bisphosphate aldolase class I",R4
+20,2204829,T→G,0,0,0,0,10.6,0,G78G (GGT→GGG) ,Syn,yehL →,putative AAA(+) MoxR family ATPase YehL,R4
+21,2453702,A→C,0,0,0,0,12.4,0,intergenic (‑1366/+1381),Intergenic,yfcS ← / ← yfcV,putative fimbrial chaperone YfcS/putative fimbrial protein YfcV,R4
+22,2642521,T→G,0,0,0,0,13.7,8.6,K108N (AAA→AAC) ,Nsyn,rodZ ←,cytoskeleton protein RodZ,R4
+23,2725812,G→T,0,0,0,0,10.6,0,intergenic (‑66/‑113),Intergenic,kgtP ← / → yfiS,alpha‑ketoglutarate:H(+) symporter/protein YfiS,R4
+24,3205983,T→G,0,0,0,0,21.1,0,T92P (ACG→CCG) ,Nsyn,ttdR ←,DNA‑binding transcriptional activator Dan,R4
+25,3214380,A→C,0,0,0,100,0,0,D445A (GAT→GCT) ,Nsyn,rpoD →,"RNA polymerase, sigma 70 (sigma D) factor",R4
+26,3307094,T→G,0,0,0,0,22.8,0,N256T (AAC→ACC) ,Nsyn,deaD ←,ATP‑dependent RNA helicase DeaD,R4
+27,3445093,A→C,0,0,0,0,10.2,0,V46G (GTT→GGT) ,Nsyn,rpsE ←,30S ribosomal subunit protein S5,R4
+28,3535423,A→T,0,0,0,0,100,100,L149Q (CTG→CAG) ,Nsyn,envZ ←,sensor histidine kinase EnvZ,R4
+29,3782535,A→T,0,0,0,0,0,100,W10R (TGG→AGG) ,Nsyn,cysE ←,serine acetyltransferase,R4
+30,3828980,A→C,0,0,0,0,12.2,0,Q12H (CAA→CAC) ,Nsyn,xanP →,xanthine:H(+) symporter XanP,R4
+31,4082695,T→G,0,0,0,19.7,17.2,20.7,Q22P (CAG→CCG) ,Nsyn,fdoH ←,formate dehydrogenase O subunit beta,R4
+32,4220007,T→G,0,0,0,0,0,21,V471G (GTG→GGG) ,Nsyn,aceK →,isocitrate dehydrogenase kinase/phosphatase,R4
+33,4226344,A→C,0,0,0,0,17,0,K839N (AAA→AAC) ,Nsyn,metH →,cobalamin‑dependent methionine synthase,R4

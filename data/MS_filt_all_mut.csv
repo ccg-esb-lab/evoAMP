@@ -1,0 +1,48 @@
+,position,mutation,CA,CL,CQ,Phase1,Phase2,Phase3,annotation,MutType,gene,description,Replic
+1,458790,IS186 (+) +6 bp :: Δ1 bp,0,0,0,65.3,0,0,intergenic (+90/‑93),IS-mediated,clpX → / → lon,ATP‑dependent Clp protease ATP‑binding subunit ClpX/Lon protease,R1
+2,1260896,C→A,0,0,0,29.6,100,100,intergenic (‑93/+32),Intergenic,dauA ← / ← prs,aerobic C4‑dicarboxylate transporter DauA/ribose‑phosphate diphosphokinase,R1
+3,1908792,IS2 (+) +5 bp,0,0,0,91.1,0,0,intergenic (‑26/‑129),IS-mediated,mgrB ← / → yobH,PhoQ kinase inhibitor/uncharacterized protein YobH,R1
+4,1908812,IS5 (+) +4 bp,0,0,0,71.9,100,100,intergenic (‑46/‑110),IS-mediated,mgrB ← / → yobH,PhoQ kinase inhibitor/uncharacterized protein YobH,R1
+5,2458780,A→C,0,0,0,0,11,0,V127G (GTT→GGT) ,Nsyn,fadJ ←,3‑hydroxyacyl‑CoA dehydrogenase FadJ,R1
+6,3054881,T→G,0,0,0,0,13.6,0,K188N (AAA→AAC) ,Nsyn,ygfB ←,UPF0149 family protein YgfB,R1
+7,3407973,C→G,0,0,0,0,0,12.4,L123V (CTG→GTG) ,Nsyn,panF →,pantothenate:Na(+) symporter,R1
+8,3445089,A→C,0,0,0,0,10.2,0,G47G (GGT→GGG) ,Syn,rpsE ←,30S ribosomal subunit protein S5,R1
+9,93022,C→T,0,0,0,100,100,100,A537V (GCG→GTG) ,Nsyn,ftsI →,peptidoglycan DD‑transpeptidase FtsI,R2
+10,132415,A→C,0,0,0,0,10,0,K267N (AAA→AAC) ,Nsyn,acnB →,hypothetical protein,R2
+11,298557,A→C,0,0,0,10.4,11.3,11.1,L57R (CTC→CGC) ,Nsyn,paoD ←,molybdenum cofactor insertion chaperone PaoD,R2
+12,364192,T→G,0,0,0,10.3,0,8.1,N705T (AAC→ACC) ,Nsyn,lacZ ←,beta‑galactosidase,R2
+13,484024,A→C,0,0,0,0,0,100,V127G (GTG→GGG) ,Nsyn,acrB ←,multidrug efflux pump RND permease AcrB,R2
+14,825244,A→C,0,0,0,0,13.9,0,F289V (TTT→GTT) ,Nsyn,ybhR ←,ABC exporter membrane subunit YbhR,R2
+15,1004142,A→C,0,0,0,12.3,10.8,10.9,T66P (ACG→CCG) ,Nsyn,ycbF →,putative fimbrial chaperone YcbF,R2
+16,1040976,A→C,0,0,0,0,14.4,0,E120D (GAA→GAC) ,Nsyn,appA →,periplasmic phosphoanhydride phosphatase/multiple inositol‑polyphosphate phosphatase,R2
+17,1080910,A→C,0,0,0,0,16.4,0,intergenic (+97/‑1333),Intergenic,putP → / → efeO,proline:Na(+) symporter/ferrous iron transport system protein EfeO,R2
+18,1080937,T→G,0,0,0,0,8.7,10,intergenic (+124/‑1306),Intergenic,putP → / → efeO,proline:Na(+) symporter/ferrous iron transport system protein EfeO,R2
+19,1260896,C→A,0,0,0,0,100,100,intergenic (‑93/+32),Intergenic,dauA ← / ← prs,aerobic C4‑dicarboxylate transporter DauA/ribose‑phosphate diphosphokinase,R2
+20,1286965,A→C,0,0,0,0,15.1,0,D86A (GAC→GCC) ,Nsyn,ychS →,putative uncharacterized protein YchS,R2
+21,1286965,A→G,0,0,0,0,0,10.3,D86G (GAC→GGC) ,Nsyn,ychS →,putative uncharacterized protein YchS,R2
+22,1708901,A→C,0,0,0,13.2,9.7,12.2,R661R (CGA→CGC) ,Syn,rsxC →,SoxR [2Fe‑2S] reducing system protein RsxC,R2
+23,1708916,A→C,0,0,0,0,11.4,15,K666N (AAA→AAC) ,Nsyn,rsxC →,SoxR [2Fe‑2S] reducing system protein RsxC,R2
+24,1866213,+GCGG,0,0,0,0,0,84.1,coding (260/747 nt),Indel,mipA ←,MltA‑interacting protein,R2
+25,2013360,A→C,0,0,0,11.6,8.5,0,K44N (AAA→AAC) ,Nsyn,fliF →,flagellar basal‑body MS‑ring and collar protein,R2
+26,2067354,"Δ35,590 bp",0,0,0,100,0,0,between IS5,IS-mediated,yoeA–insH7,40 genes ,R2
+27,2177234,C→A,0,0,0,0,0,13.9,intergenic (‑30/+278),Intergenic,gatY ← / ← fbaB,"tagatose‑1,6‑bisphosphate aldolase 2 subunit GatY/fructose‑bisphosphate aldolase class I",R2
+28,2177245,G→T,0,0,0,9.7,12.6,10.1,intergenic (‑41/+267),Intergenic,gatY ← / ← fbaB,"tagatose‑1,6‑bisphosphate aldolase 2 subunit GatY/fructose‑bisphosphate aldolase class I",R2
+29,2725812,G→T,0,0,0,11.8,0,0,intergenic (‑66/‑113),Intergenic,kgtP ← / → yfiS,alpha‑ketoglutarate:H(+) symporter/protein YfiS,R2
+30,2965101,T→G,0,0,0,13.3,0,0,N19H (AAC→CAC) ,Nsyn,thyA ←,thymidylate synthase,R2
+31,3090442,A→C,0,0,0,10.8,0,0,K32N (AAA→AAC) ,Nsyn,endA →,DNA‑specific endonuclease I,R2
+32,3171106,A→C,0,0,0,0,10,0,N208T (AAC→ACC) ,Nsyn,qseC →,sensor histidine kinase QseC,R2
+33,3270479,T→G,0,0,0,10.6,10.7,8.5,noncoding (114/377 nt),Intergenic,rnpB ←,RNase P catalytic RNA component,R2
+34,4082695,T→G,0,0,0,22.6,16.9,0,Q22P (CAG→CCG) ,Nsyn,fdoH ←,formate dehydrogenase O subunit beta,R2
+35,4082697,A→C,0,0,0,12.9,0,0,P21P (CCT→CCG) ,Syn,fdoH ←,formate dehydrogenase O subunit beta,R2
+36,4283228,T→G,0,0,0,9.9,11.2,8.7,intergenic (‑153/+25),Intergenic,yjcF ← / ← actP,pentapeptide repeat‑containing protein YjcF/acetate/glycolate:cation symporter,R2
+37,4412785,A→T,0,0,0,14.7,0,0,G133G (GGA→GGT) ,Syn,yjfM →,DUF1190 domain‑containing protein YjfM,R2
+38,4596823,A→C,0,0,0,0,10.9,0,E278D (GAA→GAC) ,Nsyn,lgoD →,L‑galactonate oxidoreductase,R2
+39,92823,A→G,0,0,0,100,100,100,M471V (ATG→GTG) ,Nsyn,ftsI →,peptidoglycan DD‑transpeptidase FtsI,R4
+40,493563,T→G,0,0,0,10.1,0,0,V491G (GTC→GGC) ,Nsyn,dnaX →,DNA polymerase III subunit tau,R4
+41,1188591,C→T,0,0,0,100,100,100,E396K (GAG→AAG) ,Nsyn,phoQ ←,sensor histidine kinase PhoQ,R4
+42,1619448,Δ1 bp,0,0,0,0,0,21.9,coding (329/435 nt),Indel,marR →,DNA‑binding transcriptional repressor MarR,R4
+43,2013360,A→C,0,0,0,0,0,10.3,K44N (AAA→AAC) ,Nsyn,fliF →,flagellar basal‑body MS‑ring and collar protein,R4
+44,3328463,IS4 (–) +12 bp,0,0,0,0,0,28.5,coding (242‑253/477 nt),IS-mediated,greA ←,transcription elongation factor GreA,R4
+45,4104912,Δ6 bp,0,0,0,0,0,81.7,coding (59‑64/1374 nt),Indel,cpxA ←,sensor histidine kinase CpxA,R4
+46,4220007,T→G,0,0,0,0,0,18.8,V471G (GTG→GGG) ,Nsyn,aceK →,isocitrate dehydrogenase kinase/phosphatase,R4
+47,4283228,T→G,0,0,0,0,0,13.6,intergenic (‑153/+25),Intergenic,yjcF ← / ← actP,pentapeptide repeat‑containing protein YjcF/acetate/glycolate:cation symporter,R4
